@@ -22,7 +22,6 @@ dependencies {
 
         // Fabric API. This is technically optional, but you probably want it anyway.
     modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
-    implementation 'com.github.spreadshirt:imgui-java:v1.84.0'
     }
 
 processResources {
